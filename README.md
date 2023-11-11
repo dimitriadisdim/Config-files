@@ -13,11 +13,11 @@
 -and Hyprland 
 
 ### Beware
-Hyprland **is officially supported only by non Nvidia cards**, For arch based distros there is a special version of hyprland (hyprland-nvidia) 
+Hyprland **is not officially supported on Nvidia cards**, For arch based distros there is a special version of hyprland (hyprland-nvidia) 
 but **Hyprland Nvidia Patch is NOT an official patch and is not maintained by hyprland.** For more info read [this](https://wiki.hyprland.org/Nvidia/)
 
-### Before using
-You need to set the __monitor__ values and change the __kb_layout__ to your prefered layout.
+### Need to change 
+Before using this config you need to set the **monitor** and **kb_layout** values (both are in hyprland.conf) to match your system.
 
 ### Useful links
 Hyprland: <https://hyprland.org/> \
