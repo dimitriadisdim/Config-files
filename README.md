@@ -1,4 +1,4 @@
-# [Hyprland]
+# Hyprland
 
 ![Screenshot](https://github.com/kilkistanproductions/Config-files/blob/main/Images/hypr.png)
 
