@@ -14,7 +14,8 @@ Here’s an improved version with better clarity, structure, and consistency:
 - Hyprpaper  
 - Wofi  
 - Iosevka Nerd Font  
-- Hyprland  
+- Hyprland
+- hyprshot
 
 ### Important Notes
 
