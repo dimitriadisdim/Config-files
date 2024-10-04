@@ -2,8 +2,6 @@
 
 ![Screenshot](https://github.com/kilkistanproductions/Config-files/blob/main/Images/hypr.png)
 
-Here’s an improved version with better clarity, structure, and consistency:
-
 ---
 
 ### Required Packages
