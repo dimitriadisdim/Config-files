@@ -2,30 +2,38 @@
 
 ![Screenshot](https://github.com/kilkistanproductions/Config-files/blob/main/Images/hypr.png)
 
+Here’s an improved version with better clarity, structure, and consistency:
+
+---
+
 ### Required Packages
 
--A polkit agent (I use KDE's) \
--Waybar \
--dunst \
--hyprpaper \
--wofi \
--Iosevka Nerd Font \
--and Hyprland 
+- Polkit Agent (e.g., KDE's Polkit)  
+- Waybar  
+- Dunst  
+- Hyprpaper  
+- Wofi  
+- Iosevka Nerd Font  
+- Hyprland  
 
-### Beware
-Hyprland **is not officially supported on Nvidia cards**, For arch based distros there is a special version of hyprland (hyprland-nvidia) 
-but **Hyprland Nvidia Patch is NOT an official patch and is not maintained by hyprland.** For more info read [this](https://wiki.hyprland.org/Nvidia/)
+### Important Notes
 
-### Need to change 
-Before using this config you need to set the **monitor** and **kb_layout** values (both are in hyprland.conf) to match your system.
+- **Hyprland is not officially supported on Nvidia cards.**  
+  For Arch-based distributions, there is a special version called `hyprland-nvidia`. However, **the Nvidia patch for Hyprland is unofficial and not maintained by the Hyprland team.** For more details, visit the [official Nvidia page](https://wiki.hyprland.org/Nvidia/).
 
-### Useful links
-Hyprland: <https://hyprland.org/> \
-Hyprland wiki : <https://wiki.hyprland.org/>
+### Configuration Adjustments
 
-# Bspwm
+Before using this setup, you need to modify the **monitor** and **kb_layout** settings in your `hyprland.conf` file to match your system's specifications.
+
+### Useful Links
+
+- [Hyprland Official Site](https://hyprland.org/)  
+- [Hyprland Wiki](https://wiki.hyprland.org/)
+
+---
+
+# BSPWM
 
 ![Screenshot](https://github.com/kilkistanproductions/Config-files/blob/main/Images/bspwm.png)
 
-### Documantation coming soon 
  
